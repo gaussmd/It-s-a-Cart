@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/It-s-a-Cart/static/css/main.089f932f.css",
+    "main.js": "/It-s-a-Cart/static/js/main.9573b0fe.js",
+    "static/media/img3.jpg": "/It-s-a-Cart/static/media/img3.55b8c8241463a56161bd.jpg",
+    "static/media/img2.jpg": "/It-s-a-Cart/static/media/img2.a011a56ebe65e9e87f8e.jpg",
+    "static/media/img1.png": "/It-s-a-Cart/static/media/img1.fc612920b86ab31197e2.png",
+    "index.html": "/It-s-a-Cart/index.html",
+    "main.089f932f.css.map": "/It-s-a-Cart/static/css/main.089f932f.css.map",
+    "main.9573b0fe.js.map": "/It-s-a-Cart/static/js/main.9573b0fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089f932f.css",
+    "static/js/main.9573b0fe.js"
+  ]
+}
